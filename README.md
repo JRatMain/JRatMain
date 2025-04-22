@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRatMain"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRatMain"/> <br>
+
+### Current ideas/pet projects (likely will never see the light of day here)
+<ul>
+  <li>Blender to Source model conversion program/script (C++/Python)</li>
+</ul>
